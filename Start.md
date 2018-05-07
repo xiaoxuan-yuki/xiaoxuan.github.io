@@ -5,15 +5,15 @@ author:    Azeril
 title: Start
 tagline:  Start Guide 
 image:
-  feature: light.jpg  
-  credit:  
-  creditlink: 
+  feature: star.jpg  
+  credit: Azeril 
+  creditlink: http://azeril.github.io
 ---
 
 
 ## 指南
 
-Jekyll 博客迷你指南。
+这是一篇 Jekyll 博客迷你指南。
 
 ###  博客搭建
 
