@@ -5,7 +5,7 @@ author:    Azeril
 title: Start
 tagline:  Start Guide 
 image:
-  feature: sea.jpg  
+  feature: light.jpg  
   credit:  
   creditlink: 
 ---
