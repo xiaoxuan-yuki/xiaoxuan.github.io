@@ -46,6 +46,8 @@ links:
     url: /Tags/
   - title: History
     url: /History/
+  - title: Start
+    url: /Start/
   - title: About
     url: /About/
     external: true

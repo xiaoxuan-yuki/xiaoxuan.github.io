@@ -5,8 +5,8 @@ title: Tags
 tagline: 博客标签库
 image:
   feature: line.jpg    
-  credit:  Azeril
-  creditlink: http://azeril.me
+  credit: 
+  creditlink: 
 ---
 
 
