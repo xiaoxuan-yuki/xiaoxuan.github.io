@@ -1,6 +1,4 @@
-# Words Worlds 琴韵小筑
-
-This is a blog designed for Rebecca. The blog is live at somewhere, nowhere & everywhere. 
+# A Personal Blog
 
 ## Tools used
 
